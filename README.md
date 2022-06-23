@@ -28,3 +28,4 @@ Social Media App with React :
     -nodemon
     -socket.io
  
+Chat_App is a web application created with MERN stack (MongoDB, Express, React, Node.js) and socket.io. You add posts and add friends to your friend list. Your post consists of text and a picture. You can like posts. You can also follow them and see their profile. When you follow somebody you can see when they post on your timeline. When you follow somebody you can start a conversation with them chat together.
